@@ -1,0 +1,1 @@
+<?php echo $medicine->toHTMLForm(null, ['incr']) ?>

@@ -1,0 +1,44 @@
+.exception-header{
+    font-size: 38px;
+    height: 200px;
+    width: 100%;
+    background-color: #eee;
+    border-bottom: solid 1px #ddd;
+    padding: 25px 50px;
+}
+
+.exception-block{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.exception-stack{
+    background-color: #eee;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+}
+
+.exception-file-line{
+    padding-left: 50px;
+    background-color: #FFCCCC;
+    width: 100%;
+}
+
+.exception-file-name{
+    margin-left: 50px;
+    float: left;
+}
+
+.exception-line{
+    margin-right: 50px;
+    float: right;
+}
+
+.exception-type{
+    color: #cc0000;
+}
+
+.exception-message{
+    color: #ff0033;
+}
